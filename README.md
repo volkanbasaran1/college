@@ -13,7 +13,7 @@
     <div class="container">
         <h2>Proje Hakkında</h2>
         <p>"Hayallerinizi gerçeğe dönüştürmek için buradayız! Unutulmaz bir eğitim serüveni için bize katılın."</p>
-        <h2>Kullanılan Teknolojiler</h3>
+        <h2>Kullanılan Teknolojiler</h2>
         <ul>
             <li>HTML</li>
              <li>CSS</li>
